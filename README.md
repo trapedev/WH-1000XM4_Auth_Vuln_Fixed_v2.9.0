@@ -70,7 +70,7 @@ If you follow these steps in order, the WH-1000XM4 will pair and connect to the 
 
 The following image is the sequence diagram of this vulnerability.
 
-<img src="" height="75%"/>
+<img src="https://github.com/user-attachments/assets/ea2ea7a7-f8fb-4578-9b61-eec36e58c1b0" height="75%"/>
 
 ### 4.5. PoC Packets
 
@@ -92,13 +92,15 @@ On April 8, 2025, a patch for this vulnerability was released as v2.9.0.
 
 - In Japanese
 
+![japanese](https://github.com/user-attachments/assets/31fa4783-d2ab-4487-aaf0-f0e15648e8d2)
 
 - In English
 
+![english](https://github.com/user-attachments/assets/bc51b590-7a47-42da-abbf-d79d46ddb022)
 
 ## 8. Notes
 
-Discoverer: Keiichiro KIMURA from ES3, Kobe University (as of  4 March, 2025)
+Discoverer: Keiichiro KIMURA
 
 Collaborators: Prof. Hiroki KUZUNO, Prof. Yoshiaki SHIRAISHI, and Prof. Masakatu MORII (Kobe University)
 
